@@ -1,4 +1,4 @@
-le# Tic Tac Toe (C++)
+# Tic Tac Toe (C++)
 
 Proyecto academico de Tic Tac Toe en C++ para consola. Incluye la logica de juego, deteccion de ganador/empate y tareas de build en VS Code.
 
